@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.22)
-project(linux-cmake-boilerplate)
+project(cmake-boilerplate)
 
 #util.a
 add_library(util STATIC src/util.cpp)
